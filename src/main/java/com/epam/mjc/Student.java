@@ -1,6 +1,5 @@
 package com.epam.mjc;
 
-
 import java.util.Arrays;
 
 public enum Student {
